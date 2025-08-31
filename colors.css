@@ -1,9 +1,4 @@
 :root {
---primary: #4f46e5;
---secondary: #64748b;
---success: #22c55e;
---danger: #ef4444;
---warning: #f59e0b;
---background: #f9fafb;
---text: #111827;
+--background1: rgba(247, 235, 225, 0.03529412);
+--background2: rgba(167, 167, 167, 0.145);
 }
