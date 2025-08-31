@@ -4,7 +4,7 @@
 This **repository** is based on the game **RUST** and is designed to provide quick access to the colors of the **RUST** interface through a **variable**.
 # How to use it ?
 1. Go to your css file
-2. Connect via jsDelivr:
+2. Connect via jsDelivr(add in html):
 ```
-1
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/vetrovskiy/Colors-Variables-Rust@main/colors.css">
 ```
