@@ -17,7 +17,7 @@ var(--background1);
 > instead of **background1**, insert any color that is **available** below :point_down:
 
 # Colors
-| Name  | Description  | RGBA
+| Name  | RGBA  | Description
 | ------------- | ------------- | ------------- |
 | **background1** |  (247, 235, 225, 0.03529412) | **dark grey** |
 | **background2**  | (167, 167, 167, 0.145)  | **light grey** |
